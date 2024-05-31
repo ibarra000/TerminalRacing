@@ -1,1 +1,14 @@
+# Ignore Python cache directories and files
+__pycache__/
+*.pyc
+
+# Ignore other files and directories
+.DS_Store
+.env
+.vscode
+.idea
+*.log
+*.tmp
+
+#Ignore Progress Notes
 UPDATES.md
